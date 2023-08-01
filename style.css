@@ -381,6 +381,12 @@ display: block;
     transition: all ease-out 0.4s;
 }
 
+
+.elem:hover h1:nth-child(2) {
+color: #edbfff;
+}
+
+
 .elem:hover h1 {
     transform: translateY(-100%);
 }
